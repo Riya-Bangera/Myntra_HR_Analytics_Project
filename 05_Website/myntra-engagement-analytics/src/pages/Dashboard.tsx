@@ -160,7 +160,7 @@ const Dashboard: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-3 animate-slide-in-left">
-              <img src="\public\myntra-logo.png" alt="Myntra Logo" className="h-8 w-auto" />
+              <img src="/myntra-logo.png" alt="Myntra Logo" className="h-8 w-auto" />
               <span className="text-xl font-bold gradient-text">MyPulse 9.0</span>
             </div>
 
@@ -1226,7 +1226,7 @@ const Dashboard: React.FC = () => {
 
           <div className="text-center border-t border-white/20 pt-8 animate-fade-in">
             <div className="flex items-center justify-center space-x-3 mb-4">
-              <img src="\public\myntra-logo.png" alt="Myntra" className="h-12 w-auto" />
+              <img src="/myntra-logo.png" alt="Myntra" className="h-12 w-auto" />
               <span className="text-2xl font-bold">MyPulse 9.0</span>
             </div>
             <p className="text-white/90 mb-2">Strategic HR Analytics Project • 2024</p>
