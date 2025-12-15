@@ -319,7 +319,7 @@ This project demonstrates the ability to:
 
 
 
-\- \*\*Portfolio Website:\*\* https://riya-bangera.github.io/Myntra\_HR\_Analytics\_Project/
+\- \*\*Portfolio Website:\*\*https://riya-bangera.github.io/Myntra_HR_Analytics_Project/
 
 \- \*\*LinkedIn:\*\* https://www.linkedin.com/in/riya-a-6171441b2/
 
