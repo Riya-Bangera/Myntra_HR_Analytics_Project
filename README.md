@@ -1,12 +1,12 @@
 📊 **Employee Engagement Analysis – MyPulse 9.0**  
 
-HR Analytics \& Business Partnering Portfolio Project
+HR Analytics & Business Partnering Portfolio Project
 
 
 
-Project Owner:Riya A  
+Project Owner: Riya A  
 
-Project Duration:December 2025  
+Project Duration: December 2025  
 
 Industry Context: E-commerce Fashion-Tech (Myntra-inspired)
 
